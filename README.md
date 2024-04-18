@@ -34,4 +34,17 @@ Welcome to the News App repository! This web application allows users to browse 
    ```bash
    npm run dev
 
+## Video 
+
+
+
+https://github.com/Atharvpatil322/news-app/assets/127306088/d8bda1c9-82f4-40bc-9a25-dd10b9589a41
+
+## Screenshot
+
+
+![Screenshot 2024-04-18 225857](https://github.com/Atharvpatil322/news-app/assets/127306088/22e49f01-6969-43fe-b33e-c9fd3a0610b0)
+
+
+
 
